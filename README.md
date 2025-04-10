@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Based on the design and content of the business card you provided for "True Home Electric" (THE), here's a tailored **Brand Guide** to ensure visual and brand consistency across all platforms and materials.
 
-## Getting Started
+---
 
-First, run the development server:
+## **True Home Electric – Brand Guide**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **1. Brand Overview**
+**Business Name**: True Home Electric (THE)  
+**Industry**: Electrical Services  
+**Tagline**: Reliable Electrical Solutions  
+**Representative**: Edraidel Angela, Electrician  
+**Contact**: +5999 5297671 (Phone & WhatsApp)  
+**Core Values**: Reliability, Professionalism, Modernity, Safety
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### **2. Logo Usage**
+**Primary Logo**:  
+- Icon: Electrical plug with a yellow lightning bolt in the center.  
+- Text: “THE” below the icon in bold uppercase letters.  
+- Subtitle: “True Home Electric” in smaller sans-serif font.
 
-## Learn More
+**Usage Notes**:
+- Maintain clear space around the logo.
+- Use only the official colors listed below.
+- Avoid stretching, rotating, or altering the logo.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### **3. Color Palette**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Color Usage         | Hex       | RGB               | Description               |
+|---------------------|-----------|-------------------|---------------------------|
+| **Primary Yellow**  | `#d19829` | (209, 152, 41)     | Energetic & bright        |
+| **Navy Blue**       | `#062c37` | (6, 44, 55)        | Trustworthy & grounded    |
+| **Light Cream**     | `#f2e2c4` | (242, 226, 196)    | Clean & warm background   |
+| **Accent White**    | `#ffffff` | (255, 255, 255)    | Contrast & clarity        |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### **4. Typography**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Primary Font**: A serif font used for names and titles (e.g., "Edraidel Angela", "ELECTRICIAN")  
+**Secondary Font**: Sans-serif, clean font for subtext and details (e.g., "True Home Electric")  
+
+**Font Style Notes**:
+- Titles in uppercase serif for a professional look.
+- Contact info and taglines use a lighter serif/sans-serif for readability.
+
+---
+
+### **5. Iconography**
+
+- **Phone Icon** – Used for direct contact.
+- **WhatsApp Icon** – Indicates availability on the app.
+- Icons are white or cream to contrast with background.
+
+---
+
+### **6. Voice & Tone**
+
+- **Tone**: Professional, dependable, and friendly.
+- **Messaging Style**: Clear, concise, and reassuring.
+- **Key Phrases**:
+  - "Reliable Electrical Solutions"
+  - "Your trusted electrician"
+  - "Powering homes with care and precision"
+
+---
+
+### **7. Applications**
+
+**Use this brand style for:**
+- Business cards
+- Invoices and quotes
+- Social media graphics
+- Uniforms and vehicles
+- Website and digital ads
+
+---
+
+Would you like mockups or templates for social media posts, letterheads, or uniforms based on this brand guide?
