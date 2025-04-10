@@ -7,7 +7,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1590769620285-6966e6e0f929"
+          src="/images/residential.png"
           alt="Electrician working on panel"
           fill
           priority

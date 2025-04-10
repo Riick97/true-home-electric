@@ -16,7 +16,8 @@ export default function PageHeader({
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src={bgImage}
+          src={"/images/residential.png"}
+          // src={bgImage || "/images/residential.png"}
           alt={title}
           fill
           priority

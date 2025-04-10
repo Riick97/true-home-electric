@@ -10,7 +10,7 @@ export default function Services() {
       title: "Residential Services",
       description:
         "Complete electrical solutions for your home, from repairs to full installations.",
-      image: "/images/residential.jpg",
+      image: "/images/residential.png",
       items: [
         "Electrical repairs and troubleshooting",
         "Lighting installation and upgrades",
@@ -27,7 +27,7 @@ export default function Services() {
       title: "Commercial Services",
       description:
         "Keep your business running smoothly with our professional commercial electrical services.",
-      image: "/images/commercial.jpg",
+      image: "/images/commercial.png",
       items: [
         "Commercial lighting design and installation",
         "Office electrical wiring and repairs",
@@ -44,7 +44,7 @@ export default function Services() {
       title: "Emergency Services",
       description:
         "Available 24/7 for all your electrical emergencies in Curaçao.",
-      image: "/images/emergency.jpg",
+      image: "/images/emergency.png",
       items: [
         "Power outage troubleshooting",
         "Electrical fire safety inspections",
@@ -60,7 +60,7 @@ export default function Services() {
       id: "specialty",
       title: "Specialty Services",
       description: "Specialized electrical solutions for unique requirements.",
-      image: "/images/specialty.jpg",
+      image: "/images/specialty.png",
       items: [
         "EV charging station installation",
         "Solar panel system wiring",
@@ -79,7 +79,7 @@ export default function Services() {
       <PageHeader
         title="Our Electrical Services"
         description="Professional electrical solutions for residential and commercial clients in Curaçao"
-        bgImage="/images/services-header.jpg"
+        bgImage="/images/services-header.png"
       />
 
       <section className="py-20 bg-white">
