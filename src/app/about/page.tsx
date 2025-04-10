@@ -7,7 +7,7 @@ export default function About() {
     {
       name: "Edraidel Angela",
       role: "Founder & Master Electrician",
-      image: "/images/team1.jpg",
+      image: "/images/team1.png",
       bio: "With over 7 years of experience, Edraidel founded True Home Electric with a vision to provide reliable electrical solutions with integrity and exceptional customer service throughout Curaçao.",
     },
   ];
@@ -50,7 +50,7 @@ export default function About() {
             </div>
             <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
               <Image
-                src="/images/about-story.jpg"
+                src="/images/andre.png"
                 alt="True Home Electric team"
                 fill
                 className="object-cover"
@@ -178,7 +178,7 @@ export default function About() {
                 key={index}
                 className="bg-white rounded-lg shadow-md overflow-hidden border border-gray-100"
               >
-                <div className="relative h-64">
+                <div className="relative h-128">
                   <Image
                     src={member.image}
                     alt={member.name}
